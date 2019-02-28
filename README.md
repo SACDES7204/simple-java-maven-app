@@ -1,5 +1,5 @@
 # simple-java-maven-app
-# Dart testing pipeline @ jenkin
+# Dart testing pipeline @ jenkinse
 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
